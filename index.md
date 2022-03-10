@@ -1,4 +1,4 @@
 # Hello There I am IronLung
 
 ## My latest project:
-### [Minecraft server hosting](ironlung127.github.com/mc-server-hosting.html)
+### [Minecraft server hosting](mc-server-hosting.html)
