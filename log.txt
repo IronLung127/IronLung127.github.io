@@ -1,16 +1,30 @@
-2022/03/15 10:37:32 Micro started
-2022/03/15 10:37:32 monokai-dark is not a plugin
-2022/03/15 10:37:40 snippets-plugin -> function onBeforeTextEvent(ev) = userdata: 0xc000921770
-2022/03/15 10:37:41 snippets-plugin -> function onBeforeTextEvent(ev) = userdata: 0xc000921ec0
-2022/03/15 10:37:41 snippets-plugin -> function onBeforeTextEvent(ev) = userdata: 0xc000a69590
-2022/03/15 10:37:41 snippets-plugin -> function onBeforeTextEvent(ev) = userdata: 0xc000a69fb0
-2022/03/15 10:37:42 snippets-plugin -> function onBeforeTextEvent(ev) = userdata: 0xc000a740f0
-2022/03/15 10:37:42 snippets-plugin -> function onBeforeTextEvent(ev) = userdata: 0xc000a74690
-2022/03/15 10:37:42 snippets-plugin -> function onBeforeTextEvent(ev) = userdata: 0xc000a74c30
-2022/03/15 10:37:45 snippets-plugin -> function onBeforeTextEvent(ev) = userdata: 0xc000a75650
-2022/03/15 10:37:45 snippets-plugin -> function onBeforeTextEvent(ev) = userdata: 0xc000a75bf0
-2022/03/15 10:37:46 snippets-plugin -> function onBeforeTextEvent(ev) = userdata: 0xc000a921b0
-2022/03/15 10:37:46 snippets-plugin -> function onBeforeTextEvent(ev) = userdata: 0xc000a92750
-2022/03/15 10:37:50 snippets-plugin -> function onBeforeTextEvent(ev) = userdata: 0xc000a92ae0
-2022/03/15 10:37:50 snippets-plugin -> function onBeforeTextEvent(ev) = userdata: 0xc000a930e0
-2022/03/15 10:37:52 snippets-plugin -> function onBeforeTextEvent(ev) = userdata: 0xc000a939e0
+2022/03/15 10:38:54 Micro started
+2022/03/15 10:38:54 monokai-dark is not a plugin
+2022/03/15 10:38:57 snippets-plugin -> function onBeforeTextEvent(ev) = userdata: 0xc00040def0
+2022/03/15 10:38:57 snippets-plugin -> function onBeforeTextEvent(ev) = userdata: 0xc0003e81e0
+2022/03/15 10:38:57 snippets-plugin -> function onBeforeTextEvent(ev) = userdata: 0xc0005520f0
+2022/03/15 10:38:58 snippets-plugin -> function onBeforeTextEvent(ev) = userdata: 0xc000552690
+2022/03/15 10:38:58 snippets-plugin -> function onBeforeTextEvent(ev) = userdata: 0xc0006560c0
+2022/03/15 10:38:59 snippets-plugin -> function onBeforeTextEvent(ev) = userdata: 0xc0006561e0
+2022/03/15 10:38:59 snippets-plugin -> function onBeforeTextEvent(ev) = userdata: 0xc000657c80
+2022/03/15 10:38:59 snippets-plugin -> function onBeforeTextEvent(ev) = userdata: 0xc00067a240
+2022/03/15 10:39:00 snippets-plugin -> function onBeforeTextEvent(ev) = userdata: 0xc00067a7e0
+2022/03/15 10:39:00 snippets-plugin -> function onBeforeTextEvent(ev) = userdata: 0xc00067baa0
+2022/03/15 10:39:00 snippets-plugin -> function onBeforeTextEvent(ev) = userdata: 0xc0007080c0
+2022/03/15 10:39:01 snippets-plugin -> function onBeforeTextEvent(ev) = userdata: 0xc000708f60
+2022/03/15 10:39:01 snippets-plugin -> function onBeforeTextEvent(ev) = userdata: 0xc000709980
+2022/03/15 10:39:01 snippets-plugin -> function onBeforeTextEvent(ev) = userdata: 0xc0006724e0
+2022/03/15 10:39:01 snippets-plugin -> function onBeforeTextEvent(ev) = userdata: 0xc000672f00
+2022/03/15 10:39:02 snippets-plugin -> function onBeforeTextEvent(ev) = userdata: 0xc000673920
+2022/03/15 10:39:04 snippets-plugin -> function onBeforeTextEvent(ev) = userdata: 0xc000673a40
+2022/03/15 10:39:04 snippets-plugin -> function onBeforeTextEvent(ev) = userdata: 0xc000684000
+2022/03/15 10:39:04 snippets-plugin -> function onBeforeTextEvent(ev) = userdata: 0xc0006845a0
+2022/03/15 10:39:04 snippets-plugin -> function onBeforeTextEvent(ev) = userdata: 0xc000684b40
+2022/03/15 10:39:05 snippets-plugin -> function onBeforeTextEvent(ev) = userdata: 0xc0006850e0
+2022/03/15 10:39:06 snippets-plugin -> function onBeforeTextEvent(ev) = userdata: 0xc000685680
+2022/03/15 10:39:08 snippets-plugin -> function onBeforeTextEvent(ev) = userdata: 0xc000685c20
+2022/03/15 10:39:10 snippets-plugin -> function onBeforeTextEvent(ev) = userdata: 0xc0006b0ae0
+2022/03/15 10:39:36 snippets-plugin -> function onBeforeTextEvent(ev) = userdata: 0xc0006b0c30
+2022/03/15 10:39:36 snippets-plugin -> function onBeforeTextEvent(ev) = userdata: 0xc0006b11d0
+2022/03/15 10:39:37 snippets-plugin -> function onBeforeTextEvent(ev) = userdata: 0xc0006b1770
+2022/03/15 10:39:37 snippets-plugin -> function onBeforeTextEvent(ev) = userdata: 0xc0006b1d10
